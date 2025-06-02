@@ -17,7 +17,7 @@
           <key>kind</key>
           <string>display-image</string>
           <key>url</key>
-          <string>https://usescarlet.com/favicon.png/string>
+          <string>https://usescarlet.com/favicon.png</string>
         </dict>
         <dict>
           <key>kind</key>
@@ -29,13 +29,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.DebianArch.ScarletPersonalXYZS</string>
+        <string>com.realmios.scarletrepo</string>
         <key>bundle-version</key>
         <string>1.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Scarlet - Signed</string>
+        <string>Scarlet Repo</string>
       </dict>
     </dict>
   </array>
