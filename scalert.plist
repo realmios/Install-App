@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://github.com/realmios/Install-App/releases/download/Install-by-Realm-iOS/Scalert-sign.ipa</string>
+          <string>https://objects.githubusercontent.com/github-production-release-asset-2e65be/994640787/f3899cae-3c3f-4532-a9c7-63dc4f7dc82a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250602%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250602T100007Z&X-Amz-Expires=300&X-Amz-Signature=1eb4360abd7c44c93c31812471fb5ca088131b67153e22e6e421b17f4004576e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DScalert-sign.ipa</string>
         </dict>
         <dict>
           <key>kind</key>
