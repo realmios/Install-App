@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string> https://github.com/realmios/library/releases/download/ipa/Locket_2.8.0_ec72b2fd-53c5-4d82-8ebf-dbab8e04ad87.ipa </string>
+<string>https://github.com/realmios/library/releases/download/ipa/Locket_2.8.0_ec72b2fd-53c5-4d82-8ebf-dbab8e04ad87.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string> https://private-user-images.githubusercontent.com/206398372/481858388-57df5282-2edd-4f25-958d-97d0ef2daa82.png </string>
+<string>https://private-user-images.githubusercontent.com/206398372/481858388-57df5282-2edd-4f25-958d-97d0ef2daa82.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string> https://private-user-images.githubusercontent.com/206398372/481858388-57df5282-2edd-4f25-958d-97d0ef2daa82.png </string>
+<string>https://private-user-images.githubusercontent.com/206398372/481858388-57df5282-2edd-4f25-958d-97d0ef2daa82.png</string>
 </dict>
 </array>
 <key>metadata</key>
